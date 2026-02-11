@@ -1,0 +1,59 @@
+■ プラグイン・クレジット一覧
+
+【システム基盤・開発支援】
+・PluginCommonBase          [製作者：トリアコンタン]
+・SaveRescue_Core           [製作者：零銃]
+・SafetyClampRecovery       [製作者：Gemini]
+・Text2Frame                [製作者：Yuki Katsura, えーしゅん]
+・PluginListConsole         [製作者：Gemini]
+
+【画面レイアウト・操作】
+・AltMenuScreen             [製作者：Yoji Ojima]
+・AltSaveScreen             [製作者：Yoji Ojima]
+・MenuSubCommand            [製作者：トリアコンタン]
+・ButtonPicture             [製作者：Yoji Ojima]
+・TextPicture               [製作者：Yoji Ojima]
+・UCHU_MobileOperation      [製作者：uchuzine / Gemini Mod]
+・SpotVisibleFilter         [製作者：村人Ａ]
+・PANDA_ProgressTextWindow  [製作者：panda]
+・BalloonCommander          [製作者：Gemini]
+
+【アイテム・ショップ・合成】
+・AlchemySystem             [製作者：うなぎおおとろ]
+・SimpleCooking             [製作者：Gemini]
+・CreateShop                [製作者：ポテトードラゴン]
+・Mano_CoinShopMZ           [製作者：しぐれん / Gemini]
+・MyMining                  [製作者：Gemini / 零銃]
+
+【バトル・成長・スキル】
+・NRP_AdditionalClasses     [製作者：砂川赳]
+・NRP_LearnSkillList        [製作者：砂川赳]
+・SkillMasteryByUsage       [製作者：零銃]
+・MAT_AnTaresRemastere      [製作者：mattuup]
+・CounterAccumulator        [製作者：零銃]
+・NRP_AutoState             [製作者：砂川赳]
+・EnemyLevel                [製作者：ポテトードラゴン]
+・DarkPlasma_EnemyBook      [製作者：DarkPlasma]
+
+【モンスター・配合・管理】
+・MonsterTamingSystem       [製作者：Gemini]
+・MonsterFusionSystem       [製作者：Gemini]
+・MonsterTaming_AnTaresPatch [製作者：Gemini]
+
+【マップ・クエスト・ミニゲーム】
+・MNKR_SAN_MapGenerator     [製作者：サンシロ / munokura]
+・QuestSystem               [製作者：うなぎおおとろ]
+・NUUN_FastTravel           [製作者：NUUN]
+・RandomLevelResetDungeon   [製作者：Gemini / 零銃]
+・SlotMachine               [製作者：Basu]
+・Ultimate_Gacha_Minigame   [製作者：Undermax]
+・Title                     [製作者：ポテトードラゴン]
+
+【NUUN系ベース・拡張】
+・NUUN_ConditionsBase       [製作者：NUUN]
+・NUUN_ConditionalDrops     [製作者：NUUN]
+・NUUN_ConditionalSkills    [製作者：NUUN]
+・NUUN_LevelUnimited_Switch [製作者：NUUN / 改造:ChatGPT]
+・Fix_NuunDropError         [製作者：Gemini / 零銃]
+
+--------------------------------------------------
